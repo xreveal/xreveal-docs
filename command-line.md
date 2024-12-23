@@ -1,9 +1,9 @@
 # Command Line Reference
 
 ## Usage
-xreveal Command [Switches] [ImageFile]
+xreveal Command [Switches]
 
-## Switches
+## Commands
 <table>
 <tr><th>Command</th><th>Usage</th><th>Action</th></tr>
 <tr><td>enable</td><td>xreveal enable</td><td>Enable Xreveal</td></tr>
@@ -27,6 +27,6 @@ xreveal rip2folder g: "d:\mymovie\foo\"
 
 ## Installer Command Line
 <table>
-<tr><th>Command</th><th>Usage</th></th><th>Action</th></tr>
+<tr><th>Command</th><th>Usage</th><th>Action</th></tr>
 <tr><td>-s</td><td>xreveal_x.x.x.exe -s</td><td>Silent install mode</td></tr>
 </table>
