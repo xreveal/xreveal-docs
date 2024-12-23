@@ -1,9 +1,9 @@
-# Command Line Reference
+# Command Line
 
 ## Usage
-xreveal Command [Switches]
+xreveal Command [Parameters] [Switches]
 
-## Commands
+## Switches
 <table>
 <tr><th>Command</th><th>Usage</th><th>Action</th></tr>
 <tr><td>enable</td><td>xreveal enable</td><td>Enable Xreveal</td></tr>
@@ -14,10 +14,10 @@ xreveal Command [Switches]
 <tr><td>register</td><td>xreveal register</td><td>Register Xreveal or Update license</td></tr>
 </table>
 
-## Examples:
-- Rip drive G: to d:\mymovie\foo.iso
+## Examples
+- Rip drive G: to ISO file d:\mymovie\foo.iso\
 xreveal rip2iso g: d:\mymovie\foo.iso
-- Rip drive G: to d:\mymovie\foo\
+- Rip drive G: to folder d:\mymovie\foo\
 xreveal rip2folder g: "d:\mymovie\foo\"
 
 ## Notes
